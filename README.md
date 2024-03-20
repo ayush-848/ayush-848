@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Deb</h1>
 <h3 align="center">Loves coding along with a cup of coffee.</h3>
-<img align="right" alt="Coding" width="400" src="https://wallpapers.com/images/high/monkey-doing-coding-kabic55n6a0wai1i.webp">
+<img align="right" alt="Coding" width="400" src="https://wallpapers.com/images/hd/java-logo-coding-quote-q0sljuxzakdj6baw.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-848&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-848" /> </p>
 
