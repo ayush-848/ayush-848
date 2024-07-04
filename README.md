@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapers.com/images/high/coding-and-coffee-o33mx7bb45cwpend.webp)
+![MasterHead](https://images3.alphacoders.com/132/1328547.png)
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
