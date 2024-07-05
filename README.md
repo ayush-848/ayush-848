@@ -8,6 +8,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-848" alt="ayush-848" /></a> </p>
 
 - 📫 How to reach me *ayushdeb848@gmail.com*
+## Holopin badges👀
+[![@ayush848's Holopin badges](https://holopin.me/ayush848)](https://holopin.io/@ayush848)
+
+# GSSOC(24) Badges 🪶
+[![@ayush848's GSSOC-badges.jpg](https://i.postimg.cc/Y9fKJtXC/GSSOC-badges.jpg)](https://postimg.cc/CB1Q8pT3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
