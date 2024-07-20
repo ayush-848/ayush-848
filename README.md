@@ -12,7 +12,7 @@
 [![@ayush848's Holopin badges](https://holopin.me/ayush848)](https://holopin.io/@ayush848)
 
 # GSSOC'24 Badges:
-[![@ayush848's GSSOC-badges.jpg](https://i.postimg.cc/Y9fKJtXC/GSSOC-badges.jpg)](https://postimg.cc/CB1Q8pT3)
+[![GSSOC-24-Badges.png](https://i.postimg.cc/vmP7rY4n/GSSOC-24-Badges.png)](https://postimg.cc/8F6rDVBk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
