@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://cheesits456-readme-stats.vercel.app/api?username=ayush-848&show_icons=true&count_private=true&theme=dark" width="450" alt="i-am-tj" alt="ayush-848" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-848&" alt="ayush-848" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-848&theme=dark" alt="ayush-848" /></p>
