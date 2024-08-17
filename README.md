@@ -33,16 +33,14 @@
 
 
 
-<details>
-  <summary><b>⚙️ GitHub Analytics</b></summary>
+  ## ⚙️ GitHub Analytics
   <a href="https://github.com/ayush-848">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-848&show_icons=true&locale=en&layout=compact&theme=dark" alt="Ayush Deb github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/ayush-848/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Ayush Deb github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/ayush-848/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Ayush Deb github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/ayush-848/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Ayush Deb github stats" />
-    <img height="160em" src="https://raw.githubusercontent.com/ayush-848/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-848&theme=midnight_purple&utcOffset=8" alt="Ayush Deb github stats" />
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
+    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-848&theme=midnight_purple" />
   </a>
-</details>
 
 
 
