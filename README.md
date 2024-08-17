@@ -30,7 +30,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" /></a>
 </div>
 
-## </>💻 Languages & Tools </>💻:
+## </>💻 Languages & Tools :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,js,bootstrap,css,html,postman,npm,git,github,vercel,netlify,replit,idea,discord&perline=8" />
@@ -62,7 +62,7 @@
 
 
 ## Connect with me
-<a href="">
+<a href="mailto:ayushdeb848@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://dev.to/ayush848">
@@ -88,5 +88,7 @@
 </a><a href="">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
+</br></br></br></br></br></br></br></br>
+<img height="350em" src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-848&theme=merko">
 
 
