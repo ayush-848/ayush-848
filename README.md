@@ -16,20 +16,33 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-848" alt="ayush-848" /></a> </p>
 
 - 📫 How to reach me *ayushdeb848@gmail.com*
-### Holopin Badges:
-[![@ayush848's Holopin badges](https://holopin.me/ayush848)](https://holopin.io/@ayush848)
+### Badges:
 
-### 🪶 GSSOC'24 Badges :
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" /></a>
-</div>
+<table>
+  <tr>
+    <td style="padding-right: 20px; vertical-align: top;">
+      <p><strong>Holopin Badges:</strong></p>
+      <a href="https://holopin.io/@ayush848">
+        <img height="180em" width="800em" src="https://holopin.me/ayush848" alt="An image of @ayush848's Holopin badges, which is a link to view their full Holopin profile">
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      <p><strong>GitHub GSSOC'24 Badges:</strong></p>
+      <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" height="77em" alt="GSSOC Postman Badge" />
+        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" height="75em" alt="GSSOC Badge 1" />
+        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" height="75em" alt="GSSOC Badge 2" />
+        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" height="75em" alt="GSSOC Badge 3" />
+        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" height="75em" alt="GSSOC Badge 4" />
+        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" height="75em" alt="GSSOC Badge 5" />
+        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" height="75em" alt="GSSOC Badge 6" />
+        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" height="75em" alt="GSSOC Badge 7" />
+      </a>
+    </td>
+  </tr>
+</table>
 
+                                                        
 ### </>💻 Languages & Tools :
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,9 +50,9 @@
   </a>
 </p>
 
-
 ### ⚙️ GitHub Analytics
-<a href="https://github.com/ayush-848">
+<div align="center">
+  <a href="https://github.com/ayush-848">
   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-848&theme=midnight_purple&utcOffset=8" alt="Ayush Deb github stats" />
   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
@@ -59,6 +72,7 @@
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-848&theme=midnight-purple" alt="ayush-848" />
 </details>
 
+</div>
 
 
 ### Connect with me
@@ -78,22 +92,34 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-</br></br></br>
-#### Checkout my Coding Profiles
-<a href="https://www.hackerrank.com/profile/ayushdeb848">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-</a><a href="https://leetcode.com/u/ayushdeb2003/">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-</a><a href="https://x.com/AyushDe79780500">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a><a href="https://www.geeksforgeeks.org/user/ayush_deb/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white">
-</a>
-<a href="https://codolio.com/profile/ayush848">
-  <img src="https://img.shields.io/badge/Codolio-%2320C997.svg?&style=for-the-badge&logo=Codolio&logoColor=white">
-</a>
+</br></br>
+<details>
+  <summary>
+    <span style="cursor: pointer; color: #9f4bff; font-weight: bold; font-size: 14px;">
+       My Coding Profiles
+    <br/>
+    </span>
+    </br>
+  </summary>
+  <a href="https://www.hackerrank.com/profile/ayushdeb848">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
+  </a>
+  <a href="https://leetcode.com/u/ayushdeb2003/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://x.com/AyushDe79780500">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/ayush_deb/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
+  <a href="https://codolio.com/profile/ayush848">
+    <img src="https://img.shields.io/badge/Codolio-%2320C997.svg?&style=for-the-badge&logo=Codolio&logoColor=white" alt="Codolio">
+  </a>
+</details>
 
-</br></br></br></br></br></br></br></br>
+
+</br></br></br></br></br>
 <img height="350em" src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-848&theme=merko">
 
 
