@@ -45,7 +45,7 @@
 </br>
   <summary>
     <span style="cursor: pointer; color: #9f4bff; font-weight: bold; font-size: 14px; text-decoration: underline; text-shadow: 0 0 5px #9f4bff;">
-      ✨ More Analytics ✨
+       More Analytics 📈
     </br>
     </span>
   </summary>
