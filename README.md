@@ -1,7 +1,15 @@
-![MasterHead](https://images3.alphacoders.com/132/1328547.png)
 
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+*<h1 align="center" > Hello, I'm Ayush </h1>*
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=50&pause=200&color=FEFAE0&center=true&vCenter=true&width=2000&height=100&lines=Hi+👋,+Nice+to+meet+you)](https://git.io/typing-svg)
+
+
+
+
+<img src="./assets/image.jpeg" alt="Description of image" min-width="300px" max-width="300px" width="350px" align="right" />
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-848&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-848" /> </p>
 
@@ -21,6 +29,22 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" /></a>
 </div>
+
+
+
+
+<details>
+  <summary><b>⚙️ GitHub Analytics</b></summary>
+  <a href="https://github.com/ayush-848">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-848&show_icons=true&locale=en&layout=compact&theme=dark" alt="Ayush Deb github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/ayush-848/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Ayush Deb github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/ayush-848/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Ayush Deb github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/ayush-848/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Ayush Deb github stats" />
+    <img height="160em" src="https://raw.githubusercontent.com/ayush-848/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
+  </a>
+</details>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
