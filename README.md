@@ -33,7 +33,7 @@
 ## </>💻 Languages & Tools :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,js,bootstrap,css,html,postman,npm,git,github,vercel,netlify,replit,idea,discord&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,js,bootstrap,css,html,postman,npm,git,github,vercel,replit,idea&perline=8" />
   </a>
 </p>
 
