@@ -49,7 +49,7 @@
 <details>
 </br>
   <summary>
-    <span style="cursor: pointer; color: #9f4bff; font-weight: bold; font-size: 14px; text-decoration: underline; text-shadow: 0 0 5px #9f4bff;">
+    <span style="cursor: pointer; color: #9f4bff; font-weight: bold; font-size: 14px;">
        More Analytics 📈
     </br>
     </span>
@@ -60,11 +60,33 @@
 </details>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush-deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-deb" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ayush848" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush848" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushdeb2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushdeb2003" height="30" width="40" /></a>
-</p>
+
+## Connect with me
+<a href="">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://dev.to/ayush848">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+</a><a href="https://medium.com/@ayushdeb848">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a><a href="">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+</a><a href="">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+<a href="">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</br></br></br>
+<a href="">
+  <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white">
+</a><a href="">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+</a><a href="">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+</a><a href="">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
 
 
