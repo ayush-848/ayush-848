@@ -16,10 +16,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-848" alt="ayush-848" /></a> </p>
 
 - 📫 How to reach me *ayushdeb848@gmail.com*
-# Holopin Badges:
+### Holopin Badges:
 [![@ayush848's Holopin badges](https://holopin.me/ayush848)](https://holopin.io/@ayush848)
 
-## 🪶 GSSOC'24 Badges :
+### 🪶 GSSOC'24 Badges :
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -30,7 +30,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" /></a>
 </div>
 
-## </>💻 Languages & Tools :
+### </>💻 Languages & Tools :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,js,bootstrap,css,html,postman,npm,git,github,vercel,replit,idea&perline=8" />
@@ -38,7 +38,7 @@
 </p>
 
 
-## ⚙️ GitHub Analytics
+### ⚙️ GitHub Analytics
 <a href="https://github.com/ayush-848">
   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-848&theme=midnight_purple&utcOffset=8" alt="Ayush Deb github stats" />
@@ -61,7 +61,7 @@
 
 
 
-## Connect with me
+### Connect with me
 <a href="mailto:ayushdeb848@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -79,6 +79,7 @@
 </a>
 
 </br></br></br>
+#### Checkout my Coding Profiles
 <a href="https://www.hackerrank.com/profile/ayushdeb848">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a><a href="https://leetcode.com/u/ayushdeb2003/">
