@@ -33,17 +33,26 @@
 
 
 
-  ## ⚙️ GitHub Analytics
-  <a href="https://github.com/ayush-848">
-    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
-    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-848&theme=midnight_purple&utcOffset=8" alt="Ayush Deb github stats" />
-    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
-    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
-    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-848&theme=midnight_purple" />
-    <img height="150em" src="https://cheesits456-readme-stats.vercel.app/api?username=ayush-848&show_icons=true&count_private=true&theme=midnight-purple" alt="ayush-848" />
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-848&theme=midnight-purple" alt="ayush-848" />
-  </a>
-
+## ⚙️ GitHub Analytics
+<a href="https://github.com/ayush-848">
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-848&theme=midnight_purple&utcOffset=8" alt="Ayush Deb github stats" />
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-848&theme=midnight_purple" />
+</a>
+<details>
+</br>
+  <summary>
+    <span style="cursor: pointer; color: #9f4bff; font-weight: bold; font-size: 14px; text-decoration: underline; text-shadow: 0 0 5px #9f4bff;">
+      ✨ More Analytics ✨
+    </br>
+    </span>
+  </summary>
+  
+  <img height="150em" src="https://cheesits456-readme-stats.vercel.app/api?username=ayush-848&show_icons=true&count_private=true&theme=midnight-purple" alt="ayush-848" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-848&theme=midnight-purple" alt="ayush-848" />
+</details>
 
 
 <h3 align="left">Connect with me:</h3>
