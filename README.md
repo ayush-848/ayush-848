@@ -79,17 +79,19 @@
 </a>
 
 </br></br></br>
-<a href="">
-  <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white">
-</a><a href="https://www.hackerrank.com/profile/ayushdeb848">
+<a href="https://www.hackerrank.com/profile/ayushdeb848">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a><a href="https://leetcode.com/u/ayushdeb2003/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
 </a><a href="https://x.com/AyushDe79780500">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a><a href="https://www.geeksforgeeks.org/">
+</a><a href="https://www.geeksforgeeks.org/user/ayush_deb/">
   <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white">
 </a>
+<a href="https://codolio.com/profile/ayush848">
+  <img src="https://img.shields.io/badge/Codolio-%2320C997.svg?&style=for-the-badge&logo=Codolio&logoColor=white">
+</a>
+
 </br></br></br></br></br></br></br></br>
 <img height="350em" src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-848&theme=merko">
 
