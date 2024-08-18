@@ -24,7 +24,7 @@
     <td style="padding-right: 20px; vertical-align: top;">
       <p><strong>Holopin Badges:</strong></p>
       <a href="https://holopin.io/@ayush848">
-        <img height="160em" width="800em" src="https://holopin.me/ayush848" alt="An image of @ayush848's Holopin badges, which is a link to view their full Holopin profile">
+        <img height="150em" width="800em" src="https://holopin.me/ayush848" alt="An image of @ayush848's Holopin badges, which is a link to view their full Holopin profile">
       </a>
     </td>
     <td style="vertical-align: top;">
