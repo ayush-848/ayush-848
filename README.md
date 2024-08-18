@@ -1,8 +1,7 @@
+<p align="center">
+  <img src="./assets/I am Ayush.png" alt="Description of image" width="80%" />
+</p>
 
-
-
-
-<img align="center" src="./assets/I am Ayush.png" alt="Description of image" width="100%" />
 
 *<h1 align="center" > Hello, I'm Ayush </h1>*
 
