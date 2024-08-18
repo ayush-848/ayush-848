@@ -2,7 +2,7 @@
 
 
 
-<img src="./assets/I am Ayush.png" alt="Description of image" min-width="300px" max-width="300px" width="100%" height="300em" align="center" />
+<img align="center" src="./assets/I am Ayush.png" alt="Description of image" width="80%" />
 
 *<h1 align="center" > Hello, I'm Ayush </h1>*
 
