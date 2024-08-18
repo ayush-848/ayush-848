@@ -9,7 +9,7 @@
 
 
 
-<img src="./assets/image.jpeg" alt="Description of image" min-width="300px" max-width="300px" width="350px" align="right" />
+<img src="./assets/I am Ayush.png" alt="Description of image" min-width="300px" max-width="300px" width="350px" align="right" />
 
 
 
