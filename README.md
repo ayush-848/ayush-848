@@ -120,7 +120,13 @@
 </details>
 
 
-</br></br></br></br></br>
-<img height="350em" src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-848&theme=merko">
+</br></br>
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=vision-friendly-dark&quoteCategory=programming" alt="GitHub Readme Quote"/>
+</div>
+</br>
+<div align="center">
+  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-848&theme=merko">
+</div>
 
 
