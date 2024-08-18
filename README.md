@@ -6,7 +6,7 @@
 *<h1 align="center" > Hello, I'm Ayush </h1>*
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=50&pause=200&color=FEFAE0&center=true&vCenter=true&width=2000&height=100&lines=Hi+👋,+Nice+to+meet+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=60&pause=200&color=FEFAE0&center=true&vCenter=true&width=2000&height=100&lines=Hi+👋,+Nice+to+meet+you)](https://git.io/typing-svg)
 
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="300">
