@@ -14,17 +14,13 @@
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  min-width="300px" max-width="300px" width="400px" align="right" align="right">
    
     
-- :telescope: I’m a student at NITA, contributing to frontend development for web applications.
+- :telescope: Student at NITA, focusing on frontend development.
+- :seedling: Exploring Open-Source and Technical Writing.
+- :zap: Solving problems on GeeksforGeeks and reading tech articles.
+- :computer: Contributing to **VisiUI**.
+- :briefcase: [View my resume](your-resume-link).
+- :mailbox: Contact me at *ayushdeb848@gmail.com*
 
-- :seedling: Exploring Open-Source & Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :computer: Actively contributing to the development of **VisiUI**.
-
-- :briefcase: [Check out my resume](your-resume-link) for more details about my work and experience.
-
-- :mailbox: How to reach me: *ayushdeb848@gmail.com*
 
   <img src="https://komarev.com/ghpvc/?username=ayush-848&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-848" align="right" />
     
