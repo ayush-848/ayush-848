@@ -1,5 +1,6 @@
 <p align="center">
   <img src="./assets/I am Ayush.png" alt="Description of image" width="80%" />
+  
 </p>
 
 
@@ -8,11 +9,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=60&pause=200&color=FEFAE0&center=true&vCenter=true&width=2000&height=100&lines=Hi+👋,+Nice+to+meet+you)](https://git.io/typing-svg)
 
-
+<p align="right">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="300">
+  <br/>
+  
+   <img src="https://komarev.com/ghpvc/?username=ayush-848&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-848" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-848&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-848" /> </p>
+ </p>
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-848&theme=juicyfresh&no-bg=true&no-frame=true" alt="ayush-848" /></a> </p>
 
@@ -118,15 +125,14 @@
     <img src="https://img.shields.io/badge/Codolio-%2320C997.svg?&style=for-the-badge&logo=Codolio&logoColor=white" alt="Codolio">
   </a>
 </details>
-
-
-</br></br>
+</br>
 <div align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=vision-friendly-dark&quoteCategory=programming" alt="GitHub Readme Quote"/>
 </div>
 </br>
 <div align="center">
   <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-848&theme=merko">
+  
 </div>
 
 
