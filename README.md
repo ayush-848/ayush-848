@@ -8,23 +8,30 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=60&pause=200&color=FEFAE0&center=true&vCenter=true&width=2000&height=100&lines=Hi+👋,+Nice+to+meet+you)](https://git.io/typing-svg)
+</br></br></br>
 
-<p align="right">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="300">
-  <br/>
-  
-   <img src="https://komarev.com/ghpvc/?username=ayush-848&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-848" />
+### 📖 About Me:
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="400" align="right">
+   
+    
+- :telescope: I’m a student at NITA, contributing to frontend development for web applications.
+
+- :seedling: Exploring Open-Source & Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :computer: Actively contributing to the development of **VisiUI**.
+
+- :briefcase: [Check out my resume](your-resume-link) for more details about my work and experience.
+
+- :mailbox: How to reach me: *ayushdeb848@gmail.com*
+
+  <img src="https://komarev.com/ghpvc/?username=ayush-848&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-848" align="right" />
+    
+</br></br>
 
 
- </p>
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-848&theme=juicyfresh&no-bg=true&no-frame=true" alt="ayush-848" /></a> </p>
-
-- 📫 How to reach me *ayushdeb848@gmail.com*
-### Badges:
+### 🏆 Badges:
 
 <table>
   <tr>
@@ -49,7 +56,7 @@
     </td>
   </tr>
 </table>
-
+</br></br>
                                                         
 ### </>💻 Languages & Tools :
 <p align="center">
@@ -57,6 +64,7 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,js,bootstrap,css,html,postman,npm,git,github,vercel,replit,idea&perline=8" />
   </a>
 </p>
+</br></br>
 
 ### ⚙️ GitHub Analytics
 <div align="center">
@@ -67,23 +75,24 @@
   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
   <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-848&theme=midnight_purple" />
 </a>
+</br></br>
 <details>
-</br>
   <summary>
-    <span style="cursor: pointer; color: #9f4bff; font-weight: bold; font-size: 14px;">
-       More Analytics 📈
+   <span style="cursor: pointer; font-size: 14px;">
+   📈 📈 More Analytics 📈 📈 
     </br>
     </span>
   </summary>
-  
+  </br>
   <img height="150em" src="https://cheesits456-readme-stats.vercel.app/api?username=ayush-848&show_icons=true&count_private=true&theme=midnight-purple" alt="ayush-848" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-848&theme=midnight-purple" alt="ayush-848" />
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-848&theme=juicyfresh&no-bg=true&no-frame=true" alt="ayush-848" /></a> </p>
 </details>
 
 </div>
 
 
-### Connect with me
+### 🌐 Connect with me:
 <a href="mailto:ayushdeb848@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -104,7 +113,7 @@
 <details>
   <summary>
     <span style="cursor: pointer; color: #9f4bff; font-weight: bold; font-size: 14px;">
-       My Coding Profiles
+       🧑‍💻 My Coding Profiles:
     <br/>
     </span>
     </br>
