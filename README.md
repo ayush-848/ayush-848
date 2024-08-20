@@ -54,13 +54,7 @@
 </table>
 </br></br>
                                                         
-### </>💻 Languages & Tools :
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,js,bootstrap,css,html,postman,npm,git,github,vercel,replit,idea&perline=8" />
-  </a>
-</p>
-</br></br>
+
 
 ### ⚙️ GitHub Analytics
 <div align="center">
@@ -87,6 +81,13 @@
 
 </div>
 
+### </>💻 Languages & Tools :
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,js,bootstrap,css,html,postman,npm,git,github,vercel,replit,idea&perline=8" />
+  </a>
+</p>
+</br></br>
 
 ### 🌐 Connect with me:
 <a href="mailto:ayushdeb848@gmail.com">
