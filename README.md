@@ -19,7 +19,7 @@
 - :zap: Solving problems on GeeksforGeeks and reading tech articles.
 - :computer: Contributing to **VisiUI**.
 - :briefcase: [View my resume](your-resume-link).
-- :mailbox: Contact me at *ayushdeb848@gmail.com*
+- :mailbox: Contact me through my *[Email](ayushdeb848@gmail.com)*
 
 
   <img src="https://komarev.com/ghpvc/?username=ayush-848&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-848" align="right" />
