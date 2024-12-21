@@ -27,33 +27,6 @@
 </br></br>
 
 
-### 🏆 Badges:
-
-<table>
-  <tr>
-    <td style="padding-right: 20px; vertical-align: top;">
-      <p><strong>Holopin Badges:</strong></p>
-      <a href="https://holopin.io/@ayush848">
-        <img height="150em" width="800em" src="https://holopin.me/ayush848" alt="An image of @ayush848's Holopin badges, which is a link to view their full Holopin profile">
-      </a>
-    </td>
-    <td style="vertical-align: top;">
-      <p><strong>GitHub GSSOC'24 Badges:</strong></p>
-      <a href="https://gssoc.girlscript.tech/leaderboard">
-        <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" height="75em" alt="GSSOC Postman Badge" />
-        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" height="75em" alt="GSSOC Badge 1" />
-        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" height="75em" alt="GSSOC Badge 2" />
-        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" height="75em" alt="GSSOC Badge 3" />
-        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" height="75em" alt="GSSOC Badge 4" />
-        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" height="75em" alt="GSSOC Badge 5" />
-        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" height="75em" alt="GSSOC Badge 6" />
-        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" height="75em" alt="GSSOC Badge 7" />
-      </a>
-    </td>
-  </tr>
-</table>
-</br></br>
-                                                        
 
 
 ### ⚙️ GitHub Analytics
