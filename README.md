@@ -17,7 +17,6 @@
 - :telescope: Student at NITA, focusing on frontend development.
 - :seedling: Exploring Open-Source and Technical Writing.
 - :zap: Solving problems on GeeksforGeeks and reading tech articles.
-- :computer: Contributing to **VisiUI**.
 - :briefcase: [View my resume](https://drive.google.com/file/d/1JA-tWTNfHJocAkxssHZ1ZbUrqmfgY778/view?usp=sharing).
 - :mailbox: Contact me through my *[Email](mailto:ayushdeb848@gmail.com)*
 
